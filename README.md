@@ -14,5 +14,6 @@ https://slides.com/jmsherry/es6-extravaganza
 https://slides.com/jmsherry/deck-29/  
 https://slides.com/jmsherry/redux  
 http://slides.com/jmsherry/js3#/  
+http://slides.com/jmsherry/deck-32#/0/2  
 
 
